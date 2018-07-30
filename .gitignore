@@ -1,0 +1,10 @@
+# Build/ directory
+build/
+
+# MacOS
+.DS_Store
+
+# IDE
+/.vscode/
+/.idea/
+/cmake-build-*/
